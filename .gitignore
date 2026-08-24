@@ -33,3 +33,4 @@ labs/lab1b-batch/datos/gold_test/
 labs/lab1b-batch/datos/silver_test/
 labs/lab1b-batch/scripts/derby.log
 labs/lab1b-batch/scripts/metastore_db/
+labs/lab1b-batch/datos/ventas_colombia_raw.csv
